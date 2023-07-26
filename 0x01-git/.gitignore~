@@ -1,0 +1,1 @@
+It is generally not recommended to push changes that include the '~' character in Git, as the character is often used to refer to the parent commit of a commit.
